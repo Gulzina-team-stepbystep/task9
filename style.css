@@ -1,0 +1,45 @@
+body {
+    background-color: antiquewhite;
+}
+
+container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: 900;
+    text-align: center;
+    color: blue;
+}
+
+#game p {
+    font-size: 24px;
+    text-align: center;
+    color: blue;
+}
+
+#game span {
+    color: red;
+    font-weight: 700;
+}
+
+.message {
+    text-decoration: double;
+    font-size: 72px;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+}
+
+.input input {
+    margin-right: 10px;
+}
+
+.input button {
+    background-color: rgb(190. 86. 86);
+    color: #fff;
+    font-weight: 700;
+}
